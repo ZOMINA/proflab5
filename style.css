@@ -14,15 +14,15 @@ ol li {
 footer {
     padding-top: 3px;
     padding-bottom: 3px;
-    padding-left:  30px;
-    background: #444;
-    color: white;
+    padding-left:  33px;
+    background: #454;
+    color: red;
 }
 a.foo:hover {
-  text-decoration-color: black;
+  text-decoration-color: blue;
   color: black;
 }
 a.foo {
-  text-decoration-color: white;
+  text-decoration-color: blue;
   color: white;
 }
